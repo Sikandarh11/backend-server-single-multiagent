@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-.env
 # Distribution / packaging
 .Python
 build/
@@ -93,7 +92,6 @@ dist
 dist-ssr
 *.local
 .env/
-.env
 /server/.env
 /server/__pycache__
 .env.*.local
@@ -151,7 +149,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -192,3 +189,4 @@ cython_debug/
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
